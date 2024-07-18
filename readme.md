@@ -25,5 +25,3 @@
      ```bash
      php index.php migrate
      ```
-
-3. **Database Schema**
